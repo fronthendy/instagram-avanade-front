@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    /* alinhamento na horizontal */
+    align-items: center;
+    /* alinhamento na vertical */
+    padding: 50px 0px;
+    /* 50px para cima e para baixo, 0px para laterais */
+}
+
+.logo {
+    width: 150px;
+}
+
+.login {
+    width: 300px;
+    border: 1px solid #ccc;
+
+}
