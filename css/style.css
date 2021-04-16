@@ -23,6 +23,7 @@ main {
     width: 150px;
 }
 
+/* inicio style login */
 .login {
     width: 300px;
     border: 1px solid #ccc;
@@ -49,6 +50,7 @@ main {
     border: none;
 }
 
+/* fim style login  */
 header {
     width: 100%;
     text-align: center;
@@ -67,7 +69,7 @@ article {
 }
 
 article .img-principal {
-    background-image: url('../img/publication_example.jpg');
+    /* background-image: url('../img/publication_example.jpg'); */
     background-position: center;
     background-size: cover;
     width: 100%;
